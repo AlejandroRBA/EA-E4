@@ -3,4 +3,4 @@
   publish = "dist/D3E4"
 
 [build.environment]
-  NODE_VERSION = "18"
+  NODE_VERSION = "22.12.0"
