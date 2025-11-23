@@ -1,0 +1,7 @@
+[build]
+  base = "RBAE4/D3E4"
+  command = "npm run build"
+  publish = "dist/D3E4"
+
+[build.environment]
+  NODE_VERSION = "18"
